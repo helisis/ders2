@@ -1,5 +1,7 @@
 h1{
 color: brown;
-background-color: gray;
 text-align: center;
+}
+header{
+background-color: gray;
 }
